@@ -1,0 +1,26 @@
+
+body {#CED4D8
+    color: #CED4D8;
+}
+
+
+h1{
+    color: #AC6AC7;
+}
+
+
+h2{
+    color: rgb (255, 165, 0);
+}
+#important{
+    border: 3px dashed blue;
+}
+.first{
+    background-color: #fff;
+}
+li{
+    color: blue;
+}
+*{
+
+}
